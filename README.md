@@ -12,10 +12,9 @@
     
     <p> Passo a passo2</p>
     <!--
-    <img src="" alt="imagem ilustrativa">
-    -->
+
     
-    <ol start="4">
+    <ol start="1">
         <li>Massa</li>
         <ol>
             <li>4 ovos.</li>
